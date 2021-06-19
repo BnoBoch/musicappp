@@ -1,5 +1,6 @@
 this is a music application
 Emoji
-Type option
+play songs
 colors
+addlibarery songs
 vibrate
