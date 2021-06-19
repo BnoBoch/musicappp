@@ -1,0 +1,5 @@
+this is a music application
+Emoji
+Type option
+colors
+vibrate
